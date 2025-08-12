@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../online_ticketPortal"
+		},
+		{
+			"name": "online-ticket",
+			"path": "../../../online-ticket"
+		}
+	],
+	"settings": {}
+}
