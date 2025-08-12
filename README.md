@@ -141,4 +141,4 @@ online_ticket_portal/
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.## SonarCloud Integration Complete
