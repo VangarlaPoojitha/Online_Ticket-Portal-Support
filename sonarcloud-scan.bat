@@ -11,6 +11,6 @@ if not exist "sonar-scanner" (
 )
  
 REM SonarCloud analysis with actual project details
-sonar-scanner\bin\sonar-scanner.bat -Dsonar.organization=birdorg -Dsonar.projectKey=birdorg -Dsonar.sources=. -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=c67b5c6ae75e60eea7f76d76fa2ebd69d3f332f0
+sonar-scanner\bin\sonar-scanner.bat -Dsonar.organization=birdorg -Dsonar.projectKey=birdorg_online-ticket-portal -Dsonar.sources=. -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=c67b5c6ae75e60eea7f76d76fa2ebd69d3f332f0
 echo Analysis complete! Check https://sonarcloud.io
 pause
